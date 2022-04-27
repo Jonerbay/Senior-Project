@@ -145,12 +145,12 @@ You can run this web-widget any time.
 - `file_number` for file `0000.npy` is just `0000`. After running program, tab in web browser will be opened.
 
 
-Note: to run this program you should in project path with Stanford data. It works only with Stanford data
+Note: to run this program Stanford data should be in you path. It works only with Stanford data. Also, change project path in the file.
 ### Slice-by-slice image saving
 You can run this web-widget any time.
 `python printSlices.py [plane] [file_number] [slice_number]`
 - `file_number` for file `0000.npy` is just `0000`. After running program, matplotlib plot will be shown with all slices. Also, all images will be saved in `/images`
 
 
-Note: to run this program you should in project path with Stanford data. It works only with Stanford data
+Note: to run this program Stanford data should be in you path. It works only with Stanford data. Also, change project path in the file.
 
