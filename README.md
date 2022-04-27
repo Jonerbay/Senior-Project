@@ -8,10 +8,12 @@ This repository contains three models of MRnet. All data that was used is availa
 
 It will create necessary conda environment with all needed packages.
 
+Moreover, you can download Istajduh dataset by use of:
+`bash download.sh`
+
 ### Neergard's model
 
 Once you download the data, create a `data` folder and place it at the root of the project. You should have two folders inside: `vol01`, `vol02` and so on as well as a `metadata.csv` file.
-
 
 
 #### Train
