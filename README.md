@@ -1,8 +1,11 @@
 # MRNet
 This repository contains three models of MRnet. All data that was used is available via following link: [Dataset](https://drive.google.com/drive/folders/1mpSe2ONoq6XUTHMdUS9ci7V3XNKJjfYu?usp=sharing)
 ## Setup environment
+
 `conda env create -f environment.yml`
+
 `source activate mrnet`
+
 It will create necessary conda environment with all needed packages.
 
 ### Neergard's model
